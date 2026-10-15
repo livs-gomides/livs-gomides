@@ -76,11 +76,13 @@ Travel Blog — projeto web desenvolvido com HTML, CSS e JavaScript.
 <p>
 ## 💌 Entre em contato comigo
 
+## 💌 Entre em contato comigo
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/livia-gomides-6913b8272/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/livia-gomides-6913b8272/">
+    <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:livia.reis.gomides@gmail.com">
-    <img src="https://img.shields.io/badge/E--MAIL-D16BA5?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/E--mail-D16BA5?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </p>
