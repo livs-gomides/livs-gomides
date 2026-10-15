@@ -69,4 +69,6 @@ Sistema Loja de Roupas — projeto de interface para um sistema de loja de roupa
 
 Travel Blog — projeto web desenvolvido com HTML, CSS e JavaScript.
 
+2D Game Java - Projeto de desenvolvimento de um jogo 2D utilizando Java, explorando conceitos de programação e desenvolvimento de jogos.
+
 ✨ Sempre aprendendo, explorando novas tecnologias e desenvolvendo soluções.
