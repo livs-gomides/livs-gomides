@@ -5,78 +5,51 @@
 Me chamo Livia e sou estudante de Engenharia de Software na UniCesumar. Tenho interesse em tecnologia, desenvolvimento de software, análise de dados e automação de processos. Atualmente, desenvolvo projetos acadêmicos que buscam unir tecnologia, acessibilidade e usabilidade, como o Route, um aplicativo de navegação indoor acessível para pessoas com deficiência visual. Também tenho interesse em visualização de dados, UX/UI e soluções que utilizem tecnologia para resolver problemas reais.
 
 <p align="left">
-    <a href="https://github.com/livs-gomides?tab=repositories">
-        <img
-            alt="Estrelas no GitHub"
-            title="Total de estrelas no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/livs-gomides?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/livs-gomides?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/livs-gomides?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/livs-gomides?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/livs-gomides?color=D16BA5&style=for-the-badge&labelColor=9B59B6&logo=star&label=Estrelas" alt="Estrelas no GitHub"/>
+  </a>
+  <a href="https://github.com/livs-gomides?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/livs-gomides?color=B784C7&labelColor=6F4A8E&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores no GitHub"/>
+  </a>
 </p>
 
 ---
 
-### Linguagens e Tecnologias
-
-🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-    <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="left" alt="MySQL" title="SQL e bancos de dados" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </p>
 
-<br/>
-<br/>
-
-📊 Estatísticas
-
+---
 
 ### 📊 Estatísticas
 
-<img
-  height="180"
-  src="https://github-readme-stats-fast.vercel.app/api?username=livs-gomides&show_icons=true&theme=tokyonight&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=livs-gomides&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
-  alt="Linguagens mais utilizadas"
-/>
-
+<p align="left">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=livs-gomides&show_icons=true&theme=transparent&title_color=D16BA5&text_color=B784C7&icon_color=9B59B6&border_color=6F4A8E&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livs-gomides&layout=compact&langs_count=10&title_color=D16BA5&text_color=B784C7&border_color=6F4A8E&bg_color=0D1117" alt="Linguagens mais utilizadas"/>
 </p>
 
-💻 Projetos
+---
 
-Route IPS — aplicativo de navegação indoor com foco em acessibilidade para pessoas com deficiência visual.
+### 💻 Projetos
 
-Sistema Loja de Roupas — projeto de interface para um sistema de loja de roupas.
+- **[Route IPS](https://github.com/livs-gomides/Route-InterfaceII)** — aplicativo de navegação indoor com foco em acessibilidade para pessoas com deficiência visual.
+- **[Sistema Loja de Roupas](https://github.com/livs-gomides/Sistema-LojaRoupas)** — projeto de interface para um sistema de loja de roupas.
+- **[Travel Blog](https://github.com/livs-gomides/Travel-Blog)** — projeto web desenvolvido com HTML, CSS e JavaScript.
+- **[2D Game Java](https://github.com/livs-gomides/2D_Game_Java_Duplicata)** — projeto de desenvolvimento de um jogo 2D utilizando Java.
 
-Travel Blog — projeto web desenvolvido com HTML, CSS e JavaScript.
+---
 
-2D Game Java - Projeto de desenvolvimento de um jogo 2D utilizando Java, explorando conceitos de programação e desenvolvimento de jogos.
-
-✨ Sempre aprendendo, explorando novas tecnologias e desenvolvendo soluções.
-
-<p>
-## 💌 Entre em contato comigo
-
-## 💌 Entre em contato comigo
+### 💌 Entre em contato comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/livia-gomides-6913b8272/">
